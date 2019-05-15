@@ -13,6 +13,7 @@
 * `jq`
 * `tldr` - https://github.com/tldr-pages/tldr
 * `aws-cli`
+* `gnu tree`
 
 ### Mac Applications
 * Notion
