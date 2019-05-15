@@ -33,3 +33,11 @@
 * intelliJ
 * RubyMine
 * Sequel Pro
+
+### Chrome extensions
+* OneTab
+* Pocket
+* The Great Suspender
+* Merge All Windows
+* Grid Ruler
+* JSON Formatter
