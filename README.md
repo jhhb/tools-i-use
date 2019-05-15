@@ -12,6 +12,7 @@
 * `csvstack`
 * `jq`
 * `tldr` - https://github.com/tldr-pages/tldr
+* `aws-cli`
 
 ### Mac Applications
 * Notion
