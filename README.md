@@ -1,11 +1,11 @@
 # tools-i-use
 
 ### basic dependencies
-1. `brew`
-2. `rvm`
-3. `nvm`
-4. `npm`
-5. `npx`
+1. `brew` - used for version management of any ecosystem without a dedicated or oft-used package mangager (e.g. redis)
+2. `rvm`  - used for all ruby dependency management
+3. `nvm`  - used for all node dependency management (prefer this over brew for node dependency management)
+  * `npm`
+  * `npx`
 6. `docker`
 
 ### Other CLI
@@ -13,7 +13,7 @@
 * `jq`
 * `tldr` - https://github.com/tldr-pages/tldr
 * `aws-cli`
-* `gnu tree`
+* `tree` (gnu)
 
 ### Mac Applications
 * Notion
