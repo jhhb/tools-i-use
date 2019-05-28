@@ -35,6 +35,7 @@
 * intelliJ
 * RubyMine
 * Sequel Pro
+* Visual Studio Code
 
 ### Chrome extensions
 * OneTab
@@ -43,3 +44,4 @@
 * Merge All Windows
 * Grid Ruler
 * JSON Formatter
+* 1Password
